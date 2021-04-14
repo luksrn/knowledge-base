@@ -105,7 +105,6 @@ A personal recommendation of books, articles, conferences, papers, and online re
 ##### Book
 - [EMPOWERED: Ordinary People, Extraordinary Products](https://www.amazon.com.br/dp/111969129X?keywords=empowered%20marty%20cagan&geniuslink=true)
 - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://learning.oreilly.com/library/view/the-managers-path/9781491973882/) [Audio](https://learning.oreilly.com/videos/the-managers-path/9781492036432/)
-- [Empatia Assertiva. Como Ser Um Líder Incisivo sem Perder a Humanidade](https://www.amazon.com.br/Empatia-Assertiva-Incisivo-Perder-Humanidade/dp/8595980063/)
 - [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://learning.oreilly.com/library/view/managing-humans-biting/9781484221587/)
 
 ##### Conferences
