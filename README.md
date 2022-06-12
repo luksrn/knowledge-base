@@ -109,6 +109,9 @@ A personal recommendation of books, articles, conferences, papers, and online re
  - [OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0)
  - [What makes JSON Web Tokens (JWT) Securfe](https://www.youtube.com/watch?v=rCkDE2me_qk)
 
+#### Articles
+ - [The OAuth 2.0 Authorization Framework](https://datatracker.ietf.org/doc/html/rfc6749)
+
 ## Leadership
 
 ##### Book
