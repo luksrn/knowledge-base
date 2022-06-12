@@ -47,6 +47,14 @@ A personal recommendation of books, articles, conferences, papers, and online re
 - [Craig Kerstiens: Postgres Performance for Humans - PyCon 2014](https://www.youtube.com/watch?v=MpH8W5hce9I)
 - ["Transactions: myths, surprises and opportunities" by Martin Kleppmann](https://www.youtube.com/watch?v=5ZjhNTM8XU8&t=79s)
 
+#### Articles
+- [Explaining the unexplainable – part 1](https://www.depesz.com/2013/04/16/explaining-the-unexplainable/)
+- [Explaining the unexplainable – part 2](https://www.depesz.com/2013/04/27/explaining-the-unexplainable-part-2/)
+- [Explaining the unexplainable – part 3](https://www.depesz.com/2013/05/09/explaining-the-unexplainable-part-3/)
+
+#### Sites
+- [https://explain.depesz.com/](https://explain.depesz.com/)
+
 ## Concurrency
 
 ##### Books
