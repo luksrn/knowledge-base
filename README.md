@@ -9,7 +9,9 @@ A personal recommendation of books, articles, conferences, papers, and online re
 - [Event Driven CQRS](#Event-Driven-CQRS)
 - [Coding Practices](#Coding-Practices)
 - [Tests](#tests)
+- [AuthN | AuthZ | Security](#authn-authz-sec)
 - [Leadership](#Leadership)
+
 
 ## Architecture
 ##### Books
@@ -99,6 +101,13 @@ A personal recommendation of books, articles, conferences, papers, and online re
 ##### Articles
 - [Testing strategies in a microservice architecture](https://martinfowler.com/articles/microservice-testing/)
 
+
+## Authorization | Authentication | Security
+#### Books
+
+#### Conferences and Talks
+ - [OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0)
+ - [What makes JSON Web Tokens (JWT) Securfe](https://www.youtube.com/watch?v=rCkDE2me_qk)
 
 ## Leadership
 
