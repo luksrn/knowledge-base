@@ -35,6 +35,8 @@ A personal recommendation of books, articles, conferences, papers, and online re
 - [The Many Meanings of Event-Driven Architecture by Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0) 
 - [Principles Of Microservices by Sam Newman](https://www.youtube.com/watch?v=PFQnNFe27kU)
 
+##### Articles
+- [DDD and Messaging Architectures - An overview of my different series on patterns in distributed systems.](https://verraes.net/2019/05/ddd-msg-arch/)
 
 ## Databases
 
@@ -71,6 +73,7 @@ A personal recommendation of books, articles, conferences, papers, and online re
 
 ##### Conference
 - [Greg Young - CQRS and Event Sourcing - Code on the Beach 2014](https://www.youtube.com/watch?v=JHGkaShoyNs)
+
 
 
 ## Coding Practices
