@@ -88,6 +88,7 @@ A personal recommendation of books, articles, conferences, papers, and online re
 - [10 Coding Principles Every Programmer Should Learn](https://dzone.com/articles/10-coding-principles-every-programmer-should-learn)
 
 ##### Conferences
+- [Design Patterns Revisited in Modern Java by Venkat Subramaniam](https://www.youtube.com/watch?v=yTuwi--LFsM)
 - [Core Design Principles for Software Developers by Venkat Subramaniam](https://www.youtube.com/watch?v=llGgO74uXMI)
 
 
