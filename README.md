@@ -9,7 +9,7 @@ A personal recommendation of books, articles, conferences, papers, and online re
 - [Event Driven CQRS](#Event-Driven-CQRS)
 - [Coding Practices](#Coding-Practices)
 - [Tests](#tests)
-- [AuthN | AuthZ | Security](#authn-authz-sec)
+- [Security](#authn-authz-sec)
 - [Leadership](#Leadership)
 
 
