@@ -136,6 +136,7 @@ A personal recommendation of books, articles, conferences, papers, and online re
 - [Talking with Tech Leads - Patrick Kua | goto;](https://youtu.be/F81W-JcRgXM)
 - [Developing software Engineers into Leaders](https://youtu.be/F81W-JcRgXM)
 - [10 tips to become an awesome Technical Lead by Bart Blommaerts](https://www.youtube.com/watch?v=bI4zW8CynDM)
+- [Creating a career ladder for engineers - Marco Rogers](https://www.youtube.com/watch?v=jA1Q94d2z10)
 
 ##### Articles
 - [A team where everyone is a leader](https://blog.pragmaticengineer.com/a-team-where-everyone-is-a-leader/)
