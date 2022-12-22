@@ -78,6 +78,9 @@ A personal recommendation of books, articles, conferences, papers, and online re
 
 ## Coding Practices
 
+#### Course
+- [MIT 6.005  Software Construction](http://stellar.mit.edu/S/course/6/fa14/6.005/materials.html)
+
 ##### Book
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://learning.oreilly.com/library/view/clean-code-a/9780136083238/)
 - [Refactoring: Improving the Design of Existing Code](https://learning.oreilly.com/library/view/refactoring-improving-the/9780134757681/)
