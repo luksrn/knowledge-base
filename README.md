@@ -23,6 +23,7 @@ A personal recommendation of books, articles, conferences, papers, and online re
 
 ##### Conferences and Talks
 - [GOTO 2019 • "Good Enough" Architecture • Stefan Tilkov](https://youtu.be/PzEox3szeRc)
+- [The Lost Art of Software Design • Simon Brown • YOW! 2019](https://www.youtube.com/watch?v=gNj8I4uSTgc)
 
 
 ## Distributed System
