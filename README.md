@@ -15,6 +15,7 @@ A personal recommendation of books, articles, conferences, papers, and online re
 
 ## Architecture
 ##### Books
+- [Architecting for Scale, 2nd Edition](https://www.oreilly.com/library/view/architecting-for-scale/9781492057161/)
 - [Implementing Domain-Driven Design](https://learning.oreilly.com/library/view/implementing-domain-driven-design/9780133039900/)
 - [Building Microservices: Designing Fine-Grained Systems](https://learning.oreilly.com/library/view/building-microservices-2nd/9781492034018/)
 - [Fundamentals of Software Architecture: An Engineering Approach](https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
